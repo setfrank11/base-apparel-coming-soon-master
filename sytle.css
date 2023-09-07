@@ -1,0 +1,21 @@
+/*Fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap");
+/*Colores*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/*# sourceMappingURL=sytle.css.map */
